@@ -22,7 +22,8 @@
 <a href="https://codeforces.com/profile/blob55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="blob55" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kushagr_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushagr_17" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@sgtghost141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sgtghost141" height="30" width="40" /></a>
-  <a href="https://play.picoctf.org/users/smartfella" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5315773?s=200&v=4" alt="smartfella" height="30" width="30" /> </a>
+  <a href="https://play.picoctf.org/users/smartfella" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5315773?s=200&v=4" alt="smartfella" height="40" width="40" /> </a>
+  <a href="https://ctftime.org/user/226047" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/2189766987/ctftime-logo-avatar_400x400.png" alt="ctftime" height="40" width="40" /> </a>
 </p>
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" />  Languages and Tools
