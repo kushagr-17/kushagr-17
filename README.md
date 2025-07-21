@@ -8,7 +8,6 @@
 </div>
 
 - 👨‍💻 Currently trying to **git** good everyday
-- 🪖 Ask/Tell me about: Tanks, Planes or any other topic
 
 ## About Me 🤓
 - 🎓 CS undergrad who actually enjoys debugging (I know, weird)
