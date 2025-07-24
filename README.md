@@ -13,7 +13,6 @@
 - 🎓 CS undergrad who actually enjoys debugging (I know, weird)
 - 🔐 Cybersecurity student
 - 🚩 CTF enthusiast - Amateur flag collector
-- 🥷🏼 Competitive Programming - Solving algorithmic challenges and participating in contests
 
 ## Connect with me 🤝
 <p align="left">
