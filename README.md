@@ -12,7 +12,7 @@
 ## About Me 🤓
 - 🎓 CS undergrad who actually enjoys debugging (I know, weird)
 - 🔐 Cybersecurity student
-- 🚩 CTF enthusiast - Amateur flag collector
+- 🚩 CTF player - Mainly Rev and OSINT
 
 ## Connect with me 🤝
 <p align="left">
